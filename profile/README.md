@@ -2,3 +2,12 @@
 
 Welcome to Gum's github profile. Gum is a decentralized social media protocol built on Solana. Developers can use Gum to build their own social media applications.
 
+
+
+
+| Name                                                                              | Description                                      | Version                                                                                                   |
+| --------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| [`@gumhq/sdk`](https://github.com/gumhq/sdk/tree/master/packages/gpl-core)        | Typescript client to interact with Gum protocol. | <p align="center"><img alt="npm" src="https://img.shields.io/npm/v/@gumhq/sdk?color=%23d45bff"></p>       |
+| [`@gumhq/react-sdk`](https://github.com/gumhq/sdk/tree/master/packages/react-sdk) | React Hooks for Gum protocol                     | <p align="center"><img alt="npm" src="https://img.shields.io/npm/v/@gumhq/react-sdk?color=%23d45bff"></p> |
+ [`gpl_core`](https://github.com/gumhq/gpl/tree/master/programs/gpl_core) | Gum Core Protocol                     | <p align="center"> 0.1.0 </p> |
+ [`gpl_compression`](https://github.com/gumhq/gpl/tree/master/programs/gpl_compression) | Gum Compression Program                    | <p align="center"> 0.1.0 </p> |
